@@ -1,19 +1,19 @@
-{
-"ratingValues": [
-        { "rating": 1,
-         "clicked": false 
-        },
-        { "rating": 2, 
-         "clicked": false 
-        },
-        { "rating": 3, 
-         "clicked": false 
-        },
-        { "rating": 4, 
-         "clicked": false 
-        },
-        { "rating": 5, 
-         "clicked": false 
-        },
-      ],
+{ 
+  "ratingValues": [
+    { "rating": 1,
+     "clicked": false 
+    },
+    { "rating": 2, 
+    "clicked": false 
+    },
+    { "rating": 3, 
+    "clicked": false 
+    },
+    { "rating": 4, 
+    "clicked": false 
+    },
+    { "rating": 5, 
+    "clicked": false 
+    },
+  ],
 }
